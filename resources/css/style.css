@@ -1,0 +1,15 @@
+.atlp-likes {
+	display: inline-block;
+
+	padding: 0.5em 1em;
+
+	border: 1px solid #ededed;
+	border-radius: 0.1em;
+
+	font-size: 0.8em;
+	cursor: pointer;
+}
+
+.atlp-liked {
+	background-color: #ededed;
+}
